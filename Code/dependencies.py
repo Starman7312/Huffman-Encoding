@@ -98,8 +98,8 @@ class binary_tree:
 
 class queue:
     def __init__(self):
-        """Initialised generic queue (really a stack)
-        Only named queue, as this is expected for huffman encoding
+        """Initialises priority queue
+        Priority queue - hence items are enqueued and dequeued from the front
         """
         self._queue = []
 
