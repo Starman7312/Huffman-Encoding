@@ -5,4 +5,4 @@ Huffman Encoding compression algorithm for text and exceutables, implemented in 
     • You can run the code by executing the Huffman Endcoding.py file.
     • And make sure to store in the same folder to run :)
 
-The code has some hard coded tests set to run in the main method, demonstrating the code functionality.
+Note: The code has some hard coded tests set to run in the main method, demonstrating the code functionality.
